@@ -8,7 +8,7 @@ version "2010.3"
 
 
 attr shapeType = ""
-attr height = rand(15,80)
+attr height = rand(15,25)
 
 
 attr tilewidth = 3
