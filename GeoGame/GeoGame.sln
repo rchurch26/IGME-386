@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcGISMapsSDKSamples", "ArcGISMapsSDKSamples.csproj", "{9F1F954B-F324-AA80-DA02-4B6C685658DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{AB1BE4BC-63A0-557C-A7BB-93E496F24855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{57865F6F-61B2-9261-6EA8-7A979D3DE173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F1F954B-F324-AA80-DA02-4B6C685658DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1F954B-F324-AA80-DA02-4B6C685658DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1F954B-F324-AA80-DA02-4B6C685658DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1F954B-F324-AA80-DA02-4B6C685658DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1BE4BC-63A0-557C-A7BB-93E496F24855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1BE4BC-63A0-557C-A7BB-93E496F24855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1BE4BC-63A0-557C-A7BB-93E496F24855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1BE4BC-63A0-557C-A7BB-93E496F24855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57865F6F-61B2-9261-6EA8-7A979D3DE173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57865F6F-61B2-9261-6EA8-7A979D3DE173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57865F6F-61B2-9261-6EA8-7A979D3DE173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57865F6F-61B2-9261-6EA8-7A979D3DE173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
